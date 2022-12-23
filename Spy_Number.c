@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 int main()
 {
@@ -17,6 +16,6 @@ int main()
     }
     else
     {
-        printf ("Not Spy Number");
+        printf("Not Spy Number");
     }
 }
